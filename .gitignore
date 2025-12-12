@@ -1,0 +1,40 @@
+# --- Sistemas de escritorio / sesiones ---
+dconf/
+gnome-session/
+xfce4/
+ibus/
+
+# --- Apps que guardan datos sensibles o basura ---
+Code/
+pamac/
+yay/
+pulse/
+evolution/
+spotify/
+vesktop/
+nautilus/
+Thunar/
+totem/
+gnome-layout-switcher.conf
+
+# --- Archivos generados automáticamente ---
+gtk-3.0/
+gtk-4.0/
+qt5ct/
+qt6ct/
+user-dirs.dirs
+user-dirs.locale
+mimeapps.list
+xsettingsd
+pavucontrol.ini
+manjaro-hello.json
+
+# --- Datos de desarrollo / caches ---
+go/
+goa-1.0/
+flutter/
+kicad/
+
+# --- Cosas pesadas ---
+backgrounds/
+obs-studio/    # quítalo si sí quieres subir escenas
