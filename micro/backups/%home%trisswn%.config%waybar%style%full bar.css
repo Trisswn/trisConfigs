@@ -16,7 +16,7 @@
 window#waybar,
 window#waybar.empty,
 window#waybar.empty #window {
-    background-color: alpha(@background, .60);
+    background-color: alpha(@background, .6 0);
     	border-radius: 0px;
 	  margin-top: 0px;
     	margin-bottom: 0px;

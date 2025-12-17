@@ -1,6 +1,6 @@
 {
   "$schema": "/etc/xdg/swaync/configSchema.json",
-  "positionX": "right",
+  "positionX": "left",
   "positionY": "top",
 	"cssPriority": "user",
 
@@ -41,11 +41,12 @@
     }
   },
   "widgets": [
-    "label",
-    "buttons-grid",
+    "mpris",
     "title",
     "dnd",
-    "notifications"
+    "notifications",
+    "volume",
+    "buttons-grid"
   ],
   "widget-config": {
     "title": {
@@ -69,6 +70,12 @@
       "label": "󰕾",
         "show-per-app": true
     },
+
+    "notifications": {
+    "summary": {"min-len": 20, "max-len": 75},
+    "body": {"min-len": 20, "max-len": 110},
+    "clear-all-button": true
+},
     "buttons-grid": {
       "actions": [
         {
