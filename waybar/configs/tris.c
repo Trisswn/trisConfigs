@@ -151,7 +151,7 @@
 	"dynamic-order": ["artist", "title"],
 	"ignored-players": ["firefox", "zen"],
 	"max-length": 50,
-	// --- AGREGA ESTAS LÍNEAS PARA CONTROLAR ---
+	
 	    "on-click": "playerctl play-pause",
 	    "on-click-right": "playerctl next",
 	    "on-click-middle": "playerctl previous",
@@ -168,13 +168,13 @@
 	    "interval": "once",
 	    "tooltip": false
   },
-  "custom/cava": {
-    "exec": "~/.config/waybar/scripts/cava.sh",
+    "custom/cava": {
+    "exec": "~/.config/waybar/cava.sh",
     "format": "{}",
     "return-type": "text",
-    "max-length": 20,
+    "interval": 1,
     "tooltip": false
-},
+    },
 "hyprland/workspaces#kanji": {
 	"disable-scroll": true,
 	"show-special": false,
@@ -207,6 +207,7 @@
 		"", "", "󰕾", ""
 	],
 },
+
 
 
  

@@ -1,0 +1,36 @@
+sw_volume: 58
+audio_device_state:1:PipeWire Output
+audio_device_state:1:cava
+state: pause
+current: 6
+time: 0
+random: 0
+repeat: 0
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:Tainy - DATA (Album) 2023/19 - PARANORMAL.mp3
+1:Tainy - DATA (Album) 2023/12 - me jodi....mp3
+2:Tainy - DATA (Album) 2023/02 - PASIEMPRE.mp3
+3:Tainy - DATA (Album) 2023/05 - MOJABI GHOST.mp3
+4:Tainy - DATA (Album) 2023/15 - Lo Siento BB：⧸.mp3
+5:Tainy - DATA (Album) 2023/18 - CORLEONE INTERLUDE.mp3
+6:Tainy - DATA (Album) 2023/11 - LA BABY.mp3
+7:Tainy - DATA (Album) 2023/10 - COLMILLO.mp3
+8:Tainy - DATA (Album) 2023/04 - FANTASMA ｜ AVC.mp3
+9:Tainy - DATA (Album) 2023/07 - desde las 10 (KANY’S INTERLUDE).mp3
+10:Tainy - DATA (Album) 2023/16 - si preguntas por mi.mp3
+11:Tainy - DATA (Album) 2023/09 - BUENOS AIRES.mp3
+12:Tainy - DATA (Album) 2023/01 - obstáculo.mp3
+13:Tainy - DATA (Album) 2023/14 - EN VISTO.mp3
+14:Tainy - DATA (Album) 2023/17 - Sci-Fi.mp3
+15:Tainy - DATA (Album) 2023/06 - 11 Y ONCE.mp3
+16:Tainy - DATA (Album) 2023/13 - VOLVER.mp3
+17:Tainy - DATA (Album) 2023/03 - Todavía.mp3
+18:Tainy - DATA (Album) 2023/20 - SACRIFICIO.mp3
+19:Tainy - DATA (Album) 2023/08 - mañana.mp3
+playlist_end

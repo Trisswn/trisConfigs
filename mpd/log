@@ -1,0 +1,61 @@
+2025-12-18T18:40:27 exception: Failed to open "/home/trisswn/.config/mpd/state": No such file or directory
+2025-12-18T18:41:08 exception: Failed to open "/home/trisswn/.config/mpd/state": No such file or directory
+2025-12-18T18:45:32 update: added /NUNCA ESTOY - EN VIVO [nUCt4ltC9Og].mp3
+2025-12-18T18:45:51 update: updating /NUNCA ESTOY - EN VIVO [nUCt4ltC9Og].mp3
+2025-12-18T19:13:25 update: added /NUNCA ESTOY - EN VIVO [nUCt4ltC9Og].mp3
+2025-12-18T19:13:31 update: updating /NUNCA ESTOY - EN VIVO [nUCt4ltC9Og].mp3
+2025-12-18T19:15:20 player: played "NUNCA ESTOY - EN VIVO [nUCt4ltC9Og].mp3"
+2025-12-18T20:35:34 player: played "NUNCA ESTOY - EN VIVO [nUCt4ltC9Og].mp3"
+2025-12-18T20:38:45 player: played "NUNCA ESTOY - EN VIVO [nUCt4ltC9Og].mp3"
+2025-12-18T21:05:08 update: updating /NUNCA ESTOY - EN VIVO [nUCt4ltC9Og].mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/01 - obstáculo.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/02 - PASIEMPRE.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/03 - Todavía.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/04 - FANTASMA ｜ AVC.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/05 - MOJABI GHOST.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/06 - 11 Y ONCE.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/07 - desde las 10 (KANY’S INTERLUDE).mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/08 - mañana.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/09 - BUENOS AIRES.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/10 - COLMILLO.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/11 - LA BABY.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/12 - me jodi....mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/13 - VOLVER.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/14 - EN VISTO.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/15 - Lo Siento BB：⧸.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/16 - si preguntas por mi.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/17 - Sci-Fi.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/18 - CORLEONE INTERLUDE.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/19 - PARANORMAL.mp3
+2025-12-18T21:05:08 update: added Tainy - DATA (Album) 2023/20 - SACRIFICIO.mp3
+2025-12-18T21:08:40 player: played "Tainy - DATA (Album) 2023/19 - PARANORMAL.mp3"
+2025-12-18T21:12:28 player: played "Tainy - DATA (Album) 2023/12 - me jodi....mp3"
+2025-12-18T21:12:41 pipewire_output: Decoder is too slow; playing silence to avoid xrun
+2025-12-18T21:12:41 pipewire_output: Decoder is too slow; playing silence to avoid xrun
+2025-12-18T21:18:33 player: played "Tainy - DATA (Album) 2023/02 - PASIEMPRE.mp3"
+2025-12-18T21:22:29 player: played "Tainy - DATA (Album) 2023/05 - MOJABI GHOST.mp3"
+2025-12-18T21:25:28 player: played "Tainy - DATA (Album) 2023/18 - CORLEONE INTERLUDE.mp3"
+2025-12-18T21:29:14 player: played "Tainy - DATA (Album) 2023/12 - me jodi....mp3"
+2025-12-18T21:36:15 player: played "Tainy - DATA (Album) 2023/18 - CORLEONE INTERLUDE.mp3"
+2025-12-18T21:40:54 update: updating /NUNCA ESTOY - EN VIVO [nUCt4ltC9Og].mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/01 - obstáculo.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/02 - PASIEMPRE.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/03 - Todavía.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/04 - FANTASMA ｜ AVC.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/05 - MOJABI GHOST.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/06 - 11 Y ONCE.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/07 - desde las 10 (KANY’S INTERLUDE).mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/08 - mañana.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/09 - BUENOS AIRES.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/10 - COLMILLO.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/11 - LA BABY.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/12 - me jodi....mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/13 - VOLVER.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/14 - EN VISTO.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/15 - Lo Siento BB：⧸.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/16 - si preguntas por mi.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/17 - Sci-Fi.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/18 - CORLEONE INTERLUDE.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/19 - PARANORMAL.mp3
+2025-12-18T21:40:54 update: updating Tainy - DATA (Album) 2023/20 - SACRIFICIO.mp3
+2025-12-19T22:19:25 player: played "Tainy - DATA (Album) 2023/11 - LA BABY.mp3"

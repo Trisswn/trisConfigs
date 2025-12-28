@@ -1,0 +1,131 @@
+14:58:41.258: Platform: Wayland
+14:58:41.258: CPU Name: AMD Ryzen 5 7535HS with Radeon Graphics
+14:58:41.258: CPU Speed: 1823.405MHz
+14:58:41.258: Physical Cores: 6, Logical Cores: 12
+14:58:41.258: Physical Memory: 15187MB Total, 4390MB Free
+14:58:41.258: Kernel Version: Linux 6.12.61-1-MANJARO
+14:58:41.258: Distribution: "Manjaro Linux" Unknown
+14:58:41.258: Desktop Environment: Hyprland (hyprland)
+14:58:41.258: Session Type: wayland
+14:58:41.260: Current Date/Time: 2025-12-17, 14:58:41
+14:58:41.260: Browser Hardware Acceleration: true
+14:58:41.260: Qt Version: 6.10.1 (runtime), 6.10.1 (compiled)
+14:58:41.260: Portable mode: false
+14:58:41.326: OBS 32.0.2 (linux)
+14:58:41.326: ---------------------------------
+14:58:41.327: ---------------------------------
+14:58:41.327: audio settings reset:
+14:58:41.327: 	samples per sec: 48000
+14:58:41.327: 	speakers:        2
+14:58:41.327: 	max buffering:   960 milliseconds
+14:58:41.327: 	buffering type:  dynamically increasing
+14:58:41.328: ---------------------------------
+14:58:41.328: Initializing OpenGL...
+14:58:41.328: Using EGL/Wayland
+14:58:41.391: Initialized EGL 1.5
+14:58:41.407: Loading up OpenGL on adapter AMD AMD Radeon 660M (radeonsi, rembrandt, LLVM 21.1.6, DRM 3.61, 6.12.61-1-MANJARO)
+14:58:41.407: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.3.1-arch1.2, shading language 4.60
+14:58:41.437: ---------------------------------
+14:58:41.437: video settings reset:
+14:58:41.437: 	base resolution:   1920x1080
+14:58:41.437: 	output resolution: 1920x1080
+14:58:41.437: 	downscale filter:  Bicubic
+14:58:41.437: 	fps:               120/1
+14:58:41.437: 	format:            NV12
+14:58:41.437: 	YUV mode:          Rec. 709/Partial
+14:58:41.437: NV12 texture support enabled
+14:58:41.437: P010 texture support not available
+14:58:41.440: Audio monitoring device:
+14:58:41.440: 	name: Por defecto
+14:58:41.440: 	id: default
+14:58:41.441: ---------------------------------
+14:58:41.442: Failed to load 'en-US' text for module: 'decklink-captions.so'
+14:58:41.444: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+14:58:41.445: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:58:41.445: Failed to initialize module 'decklink.so'
+14:58:41.553: [pipewire] No capture sources available
+14:58:41.560: v4l2loopback not installed, virtual camera not registered
+14:58:41.579: VAAPI: API version 1.22
+14:58:41.580: FFmpeg VAAPI H264 encoding supported
+14:58:41.585: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+14:58:41.585: FFmpeg VAAPI AV1 encoding not supported
+14:58:41.590: FFmpeg VAAPI HEVC encoding supported
+14:58:42.327: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 13.0, AV1 supported: true
+14:58:42.363: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.3 | RPC Version: 1)
+14:58:42.363: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.10.1 | Qt version (run-time): 6.10.1
+14:58:42.363: [obs-websocket] [obs_module_load] Linked ASIO Version: 103600
+14:58:42.368: [obs-websocket] [obs_module_load] Module loaded.
+14:58:42.371: ---------------------------------
+14:58:42.371:   Loaded Modules:
+14:58:42.371:     text-freetype2.so
+14:58:42.371:     rtmp-services.so
+14:58:42.371:     obs-x264.so
+14:58:42.371:     obs-websocket.so
+14:58:42.371:     obs-webrtc.so
+14:58:42.371:     obs-vst.so
+14:58:42.371:     obs-transitions.so
+14:58:42.371:     obs-qsv11.so
+14:58:42.371:     obs-outputs.so
+14:58:42.371:     obs-nvenc.so
+14:58:42.371:     obs-libfdk.so
+14:58:42.371:     obs-filters.so
+14:58:42.371:     obs-ffmpeg.so
+14:58:42.371:     linux-v4l2.so
+14:58:42.371:     linux-pulseaudio.so
+14:58:42.371:     linux-pipewire.so
+14:58:42.371:     linux-jack.so
+14:58:42.371:     linux-capture.so
+14:58:42.371:     linux-alsa.so
+14:58:42.371:     image-source.so
+14:58:42.371:     frontend-tools.so
+14:58:42.371:     decklink-output-ui.so
+14:58:42.371:     decklink-captions.so
+14:58:42.371: ---------------------------------
+14:58:42.371: ---------------------------------
+14:58:42.371: Available Encoders:
+14:58:42.371:   Video Encoders:
+14:58:42.371: 	- ffmpeg_svt_av1 (SVT-AV1)
+14:58:42.371: 	- ffmpeg_aom_av1 (AOM AV1)
+14:58:42.371: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+14:58:42.371: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+14:58:42.371: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+14:58:42.371: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+14:58:42.371: 	- obs_nvenc_av1_tex (NVIDIA NVENC AV1)
+14:58:42.371: 	- obs_x264 (x264)
+14:58:42.371:   Audio Encoders:
+14:58:42.371: 	- ffmpeg_aac (FFmpeg AAC)
+14:58:42.371: 	- ffmpeg_opus (FFmpeg Opus)
+14:58:42.371: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+14:58:42.371: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+14:58:42.371: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit flotante))
+14:58:42.371: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+14:58:42.371: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+14:58:42.371: 	- libfdk_aac (libfdk AAC)
+14:58:42.371: ==== Startup complete ===============================================
+14:58:42.395: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+14:58:42.395: All scene data cleared
+14:58:42.395: ------------------------------------------------
+14:58:42.399: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+14:58:42.399: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:58:42.399: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor' (default)
+14:58:42.399: [Loaded global audio device]: 'Audio del escritorio'
+14:58:42.399: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+14:58:42.399: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:58:42.400: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor' (default)
+14:58:42.400: [Loaded global audio device]: 'Mic/Aux'
+14:58:42.400: Source ID 'pipewire-screen-capture-source' not found
+14:58:42.400: Failed to create source 'Captura de pantalla (PipeWire) 2'!
+14:58:42.401: Switched to scene 'Escena'
+14:58:42.401: ------------------------------------------------
+14:58:42.401: Loaded scenes:
+14:58:42.401: - scene 'Escena':
+14:58:42.401: - scene 'Escritorio':
+14:58:42.401:     - source: 'Captura de pantalla (PipeWire) 2' (pipewire-screen-capture-source)
+14:58:42.401: ------------------------------------------------
+14:58:42.415: Device for 'Audio Output Capture' source is also used for audio monitoring:
+14:58:42.415: Deduplication logic is being applied to all monitored sources.
+14:58:42.415: 
+14:58:42.949: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Audio del escritorio)
+14:58:42.949: 
+14:58:42.970: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+14:58:42.970: 

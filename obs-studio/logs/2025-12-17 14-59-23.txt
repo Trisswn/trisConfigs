@@ -1,0 +1,127 @@
+14:59:23.721: Crash or unclean shutdown detected
+14:59:25.638: [Safe Mode] Safe mode launch selected, loading third-party plugins is disabled
+14:59:25.639: Platform: Wayland
+14:59:25.639: CPU Name: AMD Ryzen 5 7535HS with Radeon Graphics
+14:59:25.639: CPU Speed: 1451.745MHz
+14:59:25.640: Physical Cores: 6, Logical Cores: 12
+14:59:25.640: Physical Memory: 15187MB Total, 3953MB Free
+14:59:25.640: Kernel Version: Linux 6.12.61-1-MANJARO
+14:59:25.640: Distribution: "Manjaro Linux" Unknown
+14:59:25.640: Desktop Environment: Hyprland (hyprland)
+14:59:25.640: Session Type: wayland
+14:59:25.643: Current Date/Time: 2025-12-17, 14:59:25
+14:59:25.643: Browser Hardware Acceleration: true
+14:59:25.643: Qt Version: 6.10.1 (runtime), 6.10.1 (compiled)
+14:59:25.643: Portable mode: false
+14:59:25.643: Safe Mode enabled.
+14:59:25.667: OBS 32.0.2 (linux)
+14:59:25.667: ---------------------------------
+14:59:25.668: ---------------------------------
+14:59:25.668: audio settings reset:
+14:59:25.668: 	samples per sec: 48000
+14:59:25.668: 	speakers:        2
+14:59:25.668: 	max buffering:   960 milliseconds
+14:59:25.668: 	buffering type:  dynamically increasing
+14:59:25.669: ---------------------------------
+14:59:25.669: Initializing OpenGL...
+14:59:25.670: Using EGL/Wayland
+14:59:25.730: Initialized EGL 1.5
+14:59:25.747: Loading up OpenGL on adapter AMD AMD Radeon 660M (radeonsi, rembrandt, LLVM 21.1.6, DRM 3.61, 6.12.61-1-MANJARO)
+14:59:25.747: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.3.1-arch1.2, shading language 4.60
+14:59:25.776: ---------------------------------
+14:59:25.776: video settings reset:
+14:59:25.776: 	base resolution:   1920x1080
+14:59:25.776: 	output resolution: 1920x1080
+14:59:25.776: 	downscale filter:  Bicubic
+14:59:25.776: 	fps:               120/1
+14:59:25.776: 	format:            NV12
+14:59:25.776: 	YUV mode:          Rec. 709/Partial
+14:59:25.776: NV12 texture support enabled
+14:59:25.776: P010 texture support not available
+14:59:25.780: Audio monitoring device:
+14:59:25.780: 	name: Por defecto
+14:59:25.780: 	id: default
+14:59:25.781: ---------------------------------
+14:59:25.782: Failed to load 'en-US' text for module: 'decklink-captions.so'
+14:59:25.784: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+14:59:25.785: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:59:25.785: Failed to initialize module 'decklink.so'
+14:59:25.785: Skipping module 'frontend-tools', not on safe list
+14:59:25.810: [pipewire] No capture sources available
+14:59:25.817: v4l2loopback not installed, virtual camera not registered
+14:59:25.836: VAAPI: API version 1.22
+14:59:25.837: FFmpeg VAAPI H264 encoding supported
+14:59:25.843: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+14:59:25.843: FFmpeg VAAPI AV1 encoding not supported
+14:59:25.848: FFmpeg VAAPI HEVC encoding supported
+14:59:28.265: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 13.0, AV1 supported: true
+14:59:28.299: Skipping module 'obs-websocket', not on safe list
+14:59:28.302: ---------------------------------
+14:59:28.302:   Loaded Modules:
+14:59:28.302:     text-freetype2.so
+14:59:28.302:     rtmp-services.so
+14:59:28.302:     obs-x264.so
+14:59:28.302:     obs-webrtc.so
+14:59:28.302:     obs-vst.so
+14:59:28.302:     obs-transitions.so
+14:59:28.302:     obs-qsv11.so
+14:59:28.302:     obs-outputs.so
+14:59:28.302:     obs-nvenc.so
+14:59:28.302:     obs-libfdk.so
+14:59:28.302:     obs-filters.so
+14:59:28.302:     obs-ffmpeg.so
+14:59:28.302:     linux-v4l2.so
+14:59:28.302:     linux-pulseaudio.so
+14:59:28.302:     linux-pipewire.so
+14:59:28.302:     linux-jack.so
+14:59:28.302:     linux-capture.so
+14:59:28.302:     linux-alsa.so
+14:59:28.302:     image-source.so
+14:59:28.302:     decklink-output-ui.so
+14:59:28.302:     decklink-captions.so
+14:59:28.302: ---------------------------------
+14:59:28.302: ---------------------------------
+14:59:28.302: Available Encoders:
+14:59:28.302:   Video Encoders:
+14:59:28.302: 	- ffmpeg_svt_av1 (SVT-AV1)
+14:59:28.302: 	- ffmpeg_aom_av1 (AOM AV1)
+14:59:28.302: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+14:59:28.302: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+14:59:28.302: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+14:59:28.302: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+14:59:28.302: 	- obs_nvenc_av1_tex (NVIDIA NVENC AV1)
+14:59:28.302: 	- obs_x264 (x264)
+14:59:28.302:   Audio Encoders:
+14:59:28.302: 	- ffmpeg_aac (FFmpeg AAC)
+14:59:28.302: 	- ffmpeg_opus (FFmpeg Opus)
+14:59:28.302: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+14:59:28.303: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+14:59:28.303: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit flotante))
+14:59:28.303: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+14:59:28.303: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+14:59:28.303: 	- libfdk_aac (libfdk AAC)
+14:59:28.303: ==== Startup complete ===============================================
+14:59:28.315: All scene data cleared
+14:59:28.315: ------------------------------------------------
+14:59:28.319: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+14:59:28.319: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:59:28.319: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor' (default)
+14:59:28.319: [Loaded global audio device]: 'Audio del escritorio'
+14:59:28.319: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+14:59:28.319: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:59:28.319: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor' (default)
+14:59:28.320: [Loaded global audio device]: 'Mic/Aux'
+14:59:28.320: Source ID 'pipewire-screen-capture-source' not found
+14:59:28.320: Failed to create source 'Captura de pantalla (PipeWire) 2'!
+14:59:28.321: Switched to scene 'Escena'
+14:59:28.321: ------------------------------------------------
+14:59:28.321: Loaded scenes:
+14:59:28.321: - scene 'Escena':
+14:59:28.321: - scene 'Escritorio':
+14:59:28.321:     - source: 'Captura de pantalla (PipeWire) 2' (pipewire-screen-capture-source)
+14:59:28.321: ------------------------------------------------
+14:59:28.335: Device for 'Audio Output Capture' source is also used for audio monitoring:
+14:59:28.335: Deduplication logic is being applied to all monitored sources.
+14:59:28.335: 
+14:59:28.868: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Audio del escritorio)
+14:59:28.868: 

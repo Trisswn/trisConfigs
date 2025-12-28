@@ -1,0 +1,156 @@
+19:53:03.736: Platform: Wayland
+19:53:03.736: CPU Name: AMD Ryzen 5 7535HS with Radeon Graphics
+19:53:03.736: CPU Speed: 2841.608MHz
+19:53:03.736: Physical Cores: 6, Logical Cores: 12
+19:53:03.736: Physical Memory: 15187MB Total, 8696MB Free
+19:53:03.736: Kernel Version: Linux 6.12.63-1-MANJARO
+19:53:03.736: Distribution: "Manjaro Linux" Unknown
+19:53:03.736: Desktop Environment: GNOME (gnome)
+19:53:03.737: Session Type: wayland
+19:53:03.738: Current Date/Time: 2025-12-27, 19:53:03
+19:53:03.738: Browser Hardware Acceleration: true
+19:53:03.738: Qt Version: 6.10.1 (runtime), 6.10.1 (compiled)
+19:53:03.738: Portable mode: false
+19:53:03.788: OBS 32.0.2 (linux)
+19:53:03.788: ---------------------------------
+19:53:03.789: ---------------------------------
+19:53:03.789: audio settings reset:
+19:53:03.789: 	samples per sec: 48000
+19:53:03.789: 	speakers:        2
+19:53:03.789: 	max buffering:   960 milliseconds
+19:53:03.789: 	buffering type:  dynamically increasing
+19:53:03.791: ---------------------------------
+19:53:03.791: Initializing OpenGL...
+19:53:03.791: Using EGL/Wayland
+19:53:03.842: Initialized EGL 1.5
+19:53:03.854: Loading up OpenGL on adapter AMD AMD Radeon 660M (radeonsi, rembrandt, LLVM 21.1.6, DRM 3.61, 6.12.63-1-MANJARO)
+19:53:03.854: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.3.1-arch1.2, shading language 4.60
+19:53:03.881: ---------------------------------
+19:53:03.881: video settings reset:
+19:53:03.881: 	base resolution:   1920x1080
+19:53:03.881: 	output resolution: 1920x1080
+19:53:03.881: 	downscale filter:  Bicubic
+19:53:03.881: 	fps:               60/1
+19:53:03.881: 	format:            NV12
+19:53:03.881: 	YUV mode:          Rec. 709/Partial
+19:53:03.881: NV12 texture support enabled
+19:53:03.881: P010 texture support not available
+19:53:03.888: Audio monitoring device:
+19:53:03.888: 	name: Por defecto
+19:53:03.888: 	id: default
+19:53:03.889: ---------------------------------
+19:53:03.890: Failed to load 'en-US' text for module: 'decklink-captions.so'
+19:53:03.892: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+19:53:03.893: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:53:03.893: Failed to initialize module 'decklink.so'
+19:53:03.991: [pipewire] No capture sources available
+19:53:03.998: v4l2loopback not installed, virtual camera not registered
+19:53:04.014: VAAPI: API version 1.22
+19:53:04.015: FFmpeg VAAPI H264 encoding supported
+19:53:04.019: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+19:53:04.019: FFmpeg VAAPI AV1 encoding not supported
+19:53:04.023: FFmpeg VAAPI HEVC encoding supported
+19:53:04.746: [obs-nvenc] NVENC version: 13.0 (compiled) / 13.0 (driver), CUDA driver version: 13.0, AV1 supported: true
+19:53:04.789: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.6.3 | RPC Version: 1)
+19:53:04.789: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.10.1 | Qt version (run-time): 6.10.1
+19:53:04.789: [obs-websocket] [obs_module_load] Linked ASIO Version: 103600
+19:53:04.792: [obs-websocket] [obs_module_load] Module loaded.
+19:53:04.796: ---------------------------------
+19:53:04.796:   Loaded Modules:
+19:53:04.796:     text-freetype2.so
+19:53:04.796:     rtmp-services.so
+19:53:04.796:     obs-x264.so
+19:53:04.796:     obs-websocket.so
+19:53:04.796:     obs-webrtc.so
+19:53:04.796:     obs-vst.so
+19:53:04.796:     obs-transitions.so
+19:53:04.796:     obs-qsv11.so
+19:53:04.796:     obs-outputs.so
+19:53:04.796:     obs-nvenc.so
+19:53:04.796:     obs-libfdk.so
+19:53:04.796:     obs-filters.so
+19:53:04.796:     obs-ffmpeg.so
+19:53:04.796:     linux-v4l2.so
+19:53:04.796:     linux-pulseaudio.so
+19:53:04.796:     linux-pipewire.so
+19:53:04.796:     linux-jack.so
+19:53:04.796:     linux-capture.so
+19:53:04.796:     linux-alsa.so
+19:53:04.796:     image-source.so
+19:53:04.796:     frontend-tools.so
+19:53:04.796:     decklink-output-ui.so
+19:53:04.796:     decklink-captions.so
+19:53:04.796: ---------------------------------
+19:53:04.796: ---------------------------------
+19:53:04.796: Available Encoders:
+19:53:04.796:   Video Encoders:
+19:53:04.796: 	- ffmpeg_svt_av1 (SVT-AV1)
+19:53:04.796: 	- ffmpeg_aom_av1 (AOM AV1)
+19:53:04.796: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+19:53:04.796: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+19:53:04.796: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+19:53:04.796: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+19:53:04.796: 	- obs_nvenc_av1_tex (NVIDIA NVENC AV1)
+19:53:04.796: 	- obs_x264 (x264)
+19:53:04.796:   Audio Encoders:
+19:53:04.796: 	- ffmpeg_aac (FFmpeg AAC)
+19:53:04.796: 	- ffmpeg_opus (FFmpeg Opus)
+19:53:04.796: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+19:53:04.796: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+19:53:04.796: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit flotante))
+19:53:04.796: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+19:53:04.796: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+19:53:04.796: 	- libfdk_aac (libfdk AAC)
+19:53:04.796: ==== Startup complete ===============================================
+19:53:04.836: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+19:53:04.836: All scene data cleared
+19:53:04.836: ------------------------------------------------
+19:53:04.840: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+19:53:04.840: pulse-input: An error occurred while getting the source info!
+19:53:04.840: [Loaded global audio device]: 'Audio del escritorio'
+19:53:04.840: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+19:53:04.841: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+19:53:04.841: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.pro-input-0' (default)
+19:53:04.841: [Loaded global audio device]: 'Mic/Aux'
+19:53:04.841: Source ID 'pipewire-screen-capture-source' not found
+19:53:04.841: Failed to create source 'Captura de pantalla (PipeWire) 2'!
+19:53:04.841: Source ID 'pipewire-screen-capture-source' not found
+19:53:04.841: Failed to create source 'Captura de pantalla (PipeWire)'!
+19:53:04.841: pulse-input: Server name: 'PulseAudio (on PipeWire 1.4.9) 15.0.0'
+19:53:04.842: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+19:53:04.842: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.pro-input-0' (default)
+19:53:04.843: Switched to scene 'Escena'
+19:53:04.843: ------------------------------------------------
+19:53:04.843: Loaded scenes:
+19:53:04.843: - scene 'Escena':
+19:53:04.843:     - source: 'Captura de pantalla (PipeWire)' (pipewire-screen-capture-source)
+19:53:04.843:     - source: 'Captura de entrada de audio (PulseAudio)' (pulse_input_capture)
+19:53:04.843: - scene 'Escritorio':
+19:53:04.843:     - source: 'Captura de pantalla (PipeWire) 2' (pipewire-screen-capture-source)
+19:53:04.843: ------------------------------------------------
+19:53:05.411: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Mic/Aux)
+19:53:05.411: 
+19:53:54.699: ---------------------------------
+19:53:54.699: [x264 encoder: 'simple_video_recording'] preset: veryfast
+19:53:54.699: [x264 encoder: 'simple_video_recording'] profile: high
+19:53:54.699: [x264 encoder: 'simple_video_recording'] settings:
+19:53:54.699: 	rate_control: CRF
+19:53:54.699: 	bitrate:      0
+19:53:54.699: 	buffer size:  0
+19:53:54.699: 	crf:          23
+19:53:54.699: 	fps_num:      60
+19:53:54.699: 	fps_den:      1
+19:53:54.699: 	width:        1920
+19:53:54.699: 	height:       1080
+19:53:54.699: 	keyint:       250
+19:53:54.699: 
+19:53:54.711: libfdk_aac encoder created
+19:53:54.711: libfdk_aac bitrate: 192, channels: 2
+19:53:54.723: ==== Recording Start ===============================================
+19:53:54.723: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/trisswn/Videos/grabaciones/2025-12-27 19-53-54.mp4'...
+19:54:09.607: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/trisswn/Videos/grabaciones/2025-12-27 19-53-54.mp4' stopped
+19:54:09.607: Output 'simple_file_output': stopping
+19:54:09.607: Output 'simple_file_output': Total frames output: 861
+19:54:09.607: Output 'simple_file_output': Total drawn frames: 893
+19:54:09.608: ==== Recording Stop ================================================
+19:54:09.614: libfdk_aac encoder destroyed
