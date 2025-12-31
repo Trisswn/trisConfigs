@@ -1,4 +1,5 @@
 #!/bin/bash
+#=== CONFIG PARA EL SELECTOR DE WALLPAPERS ===
 
 # === CONFIG ===
 WALLPAPER_DIR="$HOME/Pictures/wallpapers"
@@ -15,7 +16,11 @@ SELECTED_WALL=$(for a in $(ls -t *.jpg *.png *.gif *.jpeg 2>/dev/null); do echo 
 SELECTED_PATH="$WALLPAPER_DIR/$SELECTED_WALL"
 
 # === SET WALLPAPER ===
-matugen image "$SELECTED_PATH"
+swww img "$SELECTED_PATH" --transition-type any
+# === SELECTOR DE COLORES ===
+wal -i "$SELECTED_PATH" --saturate 0.8
+# === ACTUALIZAR COLORES PARA HYPRLOCK ===
+~/.config/hypr/scripts/generate_hyprlock_colors.sh
 
 # === CREATE SYMLINK ===
 mkdir -p "$(dirname "$SYMLINK_PATH")"

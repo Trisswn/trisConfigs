@@ -4,7 +4,7 @@
     font-family: "JetBrains Mono NFM";
 }
 
-@import '../../.config/waybar/colors.css';
+@import url("/home/trisswn/.cache/wal/colors-waybar.css");
 
 window {
     background-color: rgba(17, 17, 17, 0.45)
@@ -13,8 +13,8 @@ window {
 button {
     border-radius: 20px;
     margin: 10px;
-    color: @inverse_surface;
-    border-color: @inverse_surface;
+    color: @foreground;
+    border-color: @foreground;
     background-color: rgba(0, 0, 0, 0.5);
     outline-style: none;
     border-style: solid;
@@ -28,7 +28,7 @@ button {
 }
 
 button:hover,button:focus {
-    background-color: @on_secondary_fixed_variant;
+    background-color: @color2;
     background-size: 30%;
     animation: gradient_f 20s ease-in infinite;
     transition: all 0.3s cubic-bezier(.55,0.0,.28,1.682);

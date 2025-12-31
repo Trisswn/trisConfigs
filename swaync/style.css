@@ -1,10 +1,12 @@
-@import '../waybar/colors.css';
+@import 'colors.css';
 
-/* 2. MAPEO DE VARIABLES (Traducción Matugen -> Tu Código) */
-@define-color color15 @on_surface;  /* Texto */
-@define-color color9  @primary;     /* Acento principal */
-@define-color color7  @on_surface;  /* Iconos generales */
-@define-color color4  @secondary;   /* Color secundario/hover */
+/* MAPEO DE VARIABLES MATUGEN -> PYWAL */
+@define-color mycolor @color9;          /* Antes @primary */
+@define-color on_surface @color7;       /* Antes Matugen on_surface */
+@define-color primary_container @color2;/* Antes Matugen primary_container */
+@define-color secondary @color4;        /* Antes Matugen secondary */
+@define-color slider-bg alpha(@color0, 0.7); /* Fondo de sliders, ajustable */
+
 
 /* Variable que faltaba para el fondo de las barras */
 @define-color slider-bg alpha(@on_surface, 0.2);
@@ -357,10 +359,11 @@ trough highlight:hover {
 }
 
 trough slider {
-    background: transparent;
+    background: @primary_container; /* Color del slider */
+    border-radius: 20px;
 }
 trough slider:hover {
-    background: transparent;
+    background: @mycolor; /* Color al pasar el mouse */
 }
 
 .widget-volume {
