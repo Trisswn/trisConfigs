@@ -18,7 +18,7 @@ SELECTED_PATH="$WALLPAPER_DIR/$SELECTED_WALL"
 # === SET WALLPAPER ===
 swww img "$SELECTED_PATH" --transition-type any
 # === SELECTOR DE COLORES ===
-wal -i "$SELECTED_PATH" --saturate 0.8
+wal -i "$SELECTED_PATH" --saturate 0.4
 # === ACTUALIZAR COLORES PARA HYPRLOCK ===
 ~/.config/hypr/scripts/generate_hyprlock_colors.sh
 
