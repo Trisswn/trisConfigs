@@ -27,3 +27,4 @@ mkdir -p "$(dirname "$SYMLINK_PATH")"
 ln -sf "$SELECTED_PATH" "$SYMLINK_PATH"
 
 swaync-client -rs
+pkill -USR1 cava
